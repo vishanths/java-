@@ -1,0 +1,30 @@
+import java.util.InputMismatchException;
+import java.util.Strycanner;
+public class prog6try{     w    nnnnnnnnnnnnnq
+    public static void main(String[] args){
+        Scanner s1=new Scanner(System.in);
+        System.out.println("how many numbers:");
+        int n=s1.nextInt();
+        int[] array=new int[n];
+    }
+    try{
+        System.out.println("enter the elements:");
+        for(int i=0;i<n;i++)
+        {
+            array[i]=s1.nextInt();
+        }
+    }
+    int sm=smallet(array);
+    System.out.println("dividing elements by 0");
+    for(int 1=0;i<n;i++)
+    {
+        `System.out.println("after dicviding:"+arry[i]/sm);
+    }
+    System.out.println("enter an index to prin:");
+    int ind=s1.nextInt();
+    System.out.println("element at positiin is"+array[ind];
+    )
+
+    catch(InputMismatchException elementSsre                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            )
+
+}
